@@ -19,4 +19,4 @@
   </p>
 </details>
 
-<p align="center">Contact me <a href = "mailto: harrywfoster10@gmail.com">here</a>!</p>
+<p align="center">Contact me <a href = "mailto: harrywfoster8@gmail.com">here</a>!</p>
