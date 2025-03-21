@@ -1,8 +1,7 @@
 <h3 align="center"> 👋 Hi, I’m <a href="https://www.harryfoster.tech/">@HarryFoster1812</a></h3>
 
 <h4 align="center"><samp> I like to code </samp></h4>
-
-<details align="center">
+<details style="text-align:center;">
    <summary> <samp>&#9776; Details</samp></summary>
    <p align="center">
      <br>
