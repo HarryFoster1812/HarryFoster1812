@@ -50,9 +50,12 @@
 # WakaTime
 
 <div align="center">
+   <p>Time spent coding this week:</p>
+   <br>
    <a href="https://wakatime.com/@a7829566-b8e6-4243-802c-35c849a6a3dc">
       <img src="https://wakatime.com/badge/user/a7829566-b8e6-4243-802c-35c849a6a3dc.svg" alt="Total time coded since May 10 2025" />
    </a>
+   <p>Time spent coding since 10 May 2025 by language:</p>
    <br>
    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=a7829566-b8e6-4243-802c-35c849a6a3dc&theme=dark"/>
 </div>
