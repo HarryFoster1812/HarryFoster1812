@@ -1,6 +1,8 @@
 <h3 align="center"> 👋 Hi, I’m <a href="https://www.harryfoster.tech/">@HarryFoster1812</a></h3>
 
 <h4 align="center"><samp> I like to code </samp></h4>
+<br>
+<p align="center">Contact me <a href = "mailto: harrywfoster10@gmail.com">here</a>!</p>
 
 <p align="center">
    <br>
@@ -44,4 +46,15 @@
      <img alt="GitHub hits" src="https://img.shields.io/github/last-commit/HarryFoster1812/HarryFoster1812?label=profile%20updated&style=flat-square"/>
    </a>
 </p>
-<p align="center">Contact me <a href = "mailto: harrywfoster10@gmail.com">here</a>!</p>
+
+# WakaTime
+
+<div align="center">
+   <a href="https://wakatime.com/@a7829566-b8e6-4243-802c-35c849a6a3dc">
+      <img src="https://wakatime.com/badge/user/a7829566-b8e6-4243-802c-35c849a6a3dc.svg" alt="Total time coded since May 10 2025" />
+   </a>
+   <br>
+   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=a7829566-b8e6-4243-802c-35c849a6a3dc&theme=dark"/>
+</div>
+
+
