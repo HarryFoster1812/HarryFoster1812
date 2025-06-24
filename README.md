@@ -50,7 +50,7 @@
 # WakaTime
 
 <div align="center">
-   <p>Time spent coding this week:</p>
+   <p>Time spent coding:</p>
    <br>
    <a href="https://wakatime.com/@a7829566-b8e6-4243-802c-35c849a6a3dc">
       <img src="https://wakatime.com/badge/user/a7829566-b8e6-4243-802c-35c849a6a3dc.svg" alt="Total time coded since May 10 2025" />
