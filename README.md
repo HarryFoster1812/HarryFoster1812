@@ -7,7 +7,7 @@
 <p align="center">
    <br>
    
-   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HarryFoster1812&locale=en&hide_title=false&layout=compact&card_width=320&&size_weight=0.3&count_weight=0.7&theme=dark&hide_border=false" height="150" alt="languages graph"/>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HarryFoster1812&langs_count=15&layout=compact&card_width=320&&size_weight=0.3&count_weight=0.7&theme=dark&hide_border=false&hide=Makefile,css,CMake,html" height="150" alt="languages graph"/>
    
    <br>
    <br>
