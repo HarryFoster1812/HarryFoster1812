@@ -57,7 +57,7 @@
    </a>
    <p>Time spent coding since 10 May 2025 by language:</p>
    <br>
-   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=a7829566-b8e6-4243-802c-35c849a6a3dc&theme=dark"/>
+   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=a7829566-b8e6-4243-802c-35c849a6a3dc&theme=dark&langs_count=15"/>
 </div>
 
 
