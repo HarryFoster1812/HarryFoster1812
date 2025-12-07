@@ -8,7 +8,7 @@
 <p align="center">
    <br>
    
-   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HarryFoster1812&langs_count=15&layout=compact&card_width=450&&size_weight=0.3&count_weight=0.7&theme=dark&hide_border=false&hide=Makefile,css,CMake,html" height="300" alt="languages graph"/>
+   <img src="://github-readme-stats-ten-olive-77.vercel.app/api/top-langs?username=HarryFoster1812&langs_count=15&layout=compact&card_width=450&&size_weight=0.3&count_weight=0.7&theme=dark&hide_border=false&hide=Makefile,css,CMake,html" height="300" alt="languages graph"/>
    
    <br>
    <br>
@@ -35,7 +35,7 @@
    
    <br>   
    
-   <img src="https://github-readme-stats.vercel.app/api?username=HarryFoster1812&show_icons=true&hide_border=true&title_color=5391FE&theme=dark&icon_color=FFFFFF&text_color=555"/>
+   <img src="://github-readme-stats-ten-olive-77.vercel.app/api?username=HarryFoster1812&show_icons=true&hide_border=true&title_color=5391FE&theme=dark&icon_color=FFFFFF&text_color=555"/>
    
    <br>
    
@@ -55,7 +55,7 @@
    <br>
    <p>Time spent coding since 10 May 2025 by language:</p>
    <br>
-   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=a7829566-b8e6-4243-802c-35c849a6a3dc&theme=dark&langs_count=15"/>
+   <img src="://github-readme-stats-ten-olive-77.vercel.app/api/wakatime?username=a7829566-b8e6-4243-802c-35c849a6a3dc&theme=dark&langs_count=15"/>
 </div>
 
 
